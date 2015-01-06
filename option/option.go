@@ -4,7 +4,7 @@ import (
 	"os"
 	"container/list"
 	"encoding/json"
-	"github.com/Brukhan/options/flags"
+	"flag"
 )
 
 type OptionSet struct {
